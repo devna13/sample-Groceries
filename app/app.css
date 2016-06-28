@@ -20,6 +20,28 @@ TextField {
 }
 
 
+
+/************************************************************************************************************************
+
+JS: Page loaded
+JS: BOOTSTRAPPING...
+JS: Setting DOM
+JS: Angular 2 is running in the development mode. Call enableProdMode() to enable the production mode.
+JS: ANGULAR BOOTSTRAP DONE.
+JS: Style: Error setting property: borderRadius on TextField(14): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(14): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(14): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(16): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(16): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(16): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(14): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(14): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(16): TypeError: Cannot read property 'isEmpty' of undefined
+JS: Style: Error setting property: borderRadius on TextField(16): TypeError: Cannot read property 'isEmpty' of undefined
+
+
+*/
+
 TextField { 
     border-width: 0.5;
     border-color: gray;
